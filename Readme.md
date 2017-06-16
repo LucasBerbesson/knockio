@@ -1,4 +1,4 @@
-This program listens to knocks (like a ping pong ball on a table) and sends signals to a mini web server hosted on the board through a websocket.
+This program listens to knocks (like a ping pong ball on a table) and sends signals to a mini web server hosted on a WEMOS D1 MINI (ESP8266) board through a websocket.
 
 Watch the [demo video here](https://www.youtube.com/watch?v=ul1E68GvWqg).  
 
